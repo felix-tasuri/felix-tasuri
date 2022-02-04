@@ -1,2 +1,2 @@
 - 👋 Hi, I’m tasuri
-- 📫 How to reach me: felix7tasuri@gmail.com
+- 📫 How to reach me: felix7tasuri@gmail.com / tasuri_o on Twitter
