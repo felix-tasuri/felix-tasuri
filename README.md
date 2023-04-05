@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently creating a website chatbot<br>🌱 currently learning c# / starting my compsci major in october 2023<br>💬 you contact me for any collaborations on large scale web projects
+🔭 currently creating a website chatbot<br>🌱 currently learning c# / starting my compsci major in october 2023<br>💬 you contact me for any collaborations on web projects
 
 
 # 💻 Tech Stack:
